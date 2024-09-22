@@ -1,5 +1,5 @@
 // Define the target date
-const targetDate = dayjs('2024-08-29');
+const targetDate = dayjs('2025-09-16');
 
 // Function to update the countdown
 function updateCountdown() {
